@@ -1,8 +1,8 @@
 # Overview 
 
-Pulling Green Day's audio features from Spotify's Web API using SpotifyR and plotting the most positive studio albums
+Pulling Green Day's audio features using `SpotifyR` and plotting the most positive studio albums
 
-## Distribution graph of Green Day's albums by level of positiveness (Valence scale)
+## Distribution graph of Green Day's albums by year and level of positiveness (Valence scale)
 
 ![](Plot/MusicalPositiveness_GD.png)
 
